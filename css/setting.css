@@ -1,0 +1,10 @@
+@font-face {
+    font-family: sanss;
+    src: url(../font/notosans-bold-webfont.woff);
+    src: url(../font/notosans-bold-webfont.woff2);
+    src: url(../font/notosans-regular-webfont.woff);
+    src: url(../font/notosans-regular-webfont.woff2);
+}
+body{
+    font-family: sanss;
+}
