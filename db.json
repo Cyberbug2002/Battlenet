@@ -1,0 +1,26 @@
+{
+    "card":[
+        {
+          "id": "1",
+          "badge": "Pre Perchase",
+          "img": "/img/WoW_11.0_PreSaleSupportAssets_Bnet_CheckoutThumbnail_960x540_B06.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/world-of-warcraft.svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "tag": "Massively Multiplayer RPG",
+          "more": "The War Within launches August 26, at 3PM PT! Upgrade to the Epic Edition and get Beta Access Now.",
+          "price": "$49.99"
+        },
+        {
+          "id": "2",
+          "badge": "new",
+          "img": "/img/WoW_11.0_PreSaleSupportAssets_Bnet_CheckoutThumbnail_960x540_B06.avif",
+          "title": "warhammer 40k space marine2",
+          "logo": "/img/world-of-warcraft.svg",
+          "dis": "In the darknes is only war",
+          "tag": "test",
+          "more": "The War Within launches August 26, at 3PM PT! Upgrade to the Epic Edition and get Beta Access Now.",
+          "price": "$49.99"
+        }
+      ]
+}
