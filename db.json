@@ -1,26 +1,340 @@
 {
-    "card":[
+    "Recommended":[
         {
           "id": "1",
-          "badge": "Pre Perchase",
+          "badge": "New",
           "img": "/img/WoW_11.0_PreSaleSupportAssets_Bnet_CheckoutThumbnail_960x540_B06.avif",
           "title": "World of Warcraft",
           "logo": "/img/world-of-warcraft.svg",
           "dis": "World of Warcraft®: The War Within™",
-          "tag": "Massively Multiplayer RPG",
           "more": "The War Within launches August 26, at 3PM PT! Upgrade to the Epic Edition and get Beta Access Now.",
-          "price": "$49.99"
+          "tag": "Massively Multiplayer RPG",
+          "price": "From $49.99"
         },
         {
           "id": "2",
-          "badge": "new",
+          "badge": "",
+          "img": "/img/44ed9f00cd02d751e44218e2ca3781cf-Jupiter_Vault_Reveal-Bnet_Game-Content_UI_Phoenix-EN-1920x1080_TEXTLESS.avif",
+          "title": "Call of Duty: Modern Warfare III",
+          "logo": "/img/Jupiter_Coming_Soon-Bnet_Game-Icon_Shop-EN-Vector-01.svg",
+          "dis": "Call of Duty®: Modern Warfare® III - Vault Edition",
+          "more": "Stop the threat in Season 4 of Call of Duty®",
+          "tag": "Action Shooter",
+          "price": "From $99.99"
+        },
+        {
+          "id": "3",
+          "badge": "",
+          "img": "/img/WoW_6MoSubBundle_ShopProductAssetGallery_1920x1080.jpg",
+          "title": "Overwatch® 2",
+          "logo": "/img/Overwatch2_(1).svg",
+          "dis": "Overwatch® 2",
+          "more": "",
+          "tag": "",
+          "price": "Play For Free"
+        },
+        {
+          "id": "4",
+          "badge": "",
+          "img": "/img/44ed9f00cd02d751e44218e2ca3781cf-Jupiter_Vault_Reveal-Bnet_Game-Content_UI_Phoenix-EN-1920x1080_TEXTLESS.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/Overwatch2_(1).svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "",
+          "tag": "",
+          "price": "From $49.99"
+        },
+        {
+          "id": "5",
+          "badge": "New",
           "img": "/img/WoW_11.0_PreSaleSupportAssets_Bnet_CheckoutThumbnail_960x540_B06.avif",
-          "title": "warhammer 40k space marine2",
+          "title": "World of Warcraft",
           "logo": "/img/world-of-warcraft.svg",
-          "dis": "In the darknes is only war",
-          "tag": "test",
+          "dis": "World of Warcraft®: The War Within™",
           "more": "The War Within launches August 26, at 3PM PT! Upgrade to the Epic Edition and get Beta Access Now.",
-          "price": "$49.99"
+          "tag": "Massively Multiplayer RPG",
+          "price": "From $49.99"
+        },
+        {
+          "id": "6",
+          "badge": "New",
+          "img": "/img/WoW_11.0_PreSaleSupportAssets_Bnet_CheckoutThumbnail_960x540_B06.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/world-of-warcraft.svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "The War Within launches August 26, at 3PM PT! Upgrade to the Epic Edition and get Beta Access Now.",
+          "tag": "Massively Multiplayer RPG",
+          "price": "From $49.99"
+        },
+        {
+          "id": "7",
+          "badge": "",
+          "img": "/img/44ed9f00cd02d751e44218e2ca3781cf-Jupiter_Vault_Reveal-Bnet_Game-Content_UI_Phoenix-EN-1920x1080_TEXTLESS.avif",
+          "title": "Call of Duty: Modern Warfare III",
+          "logo": "/img/Jupiter_Coming_Soon-Bnet_Game-Icon_Shop-EN-Vector-01.svg",
+          "dis": "Call of Duty®: Modern Warfare® III - Vault Edition",
+          "more": "Stop the threat in Season 4 of Call of Duty®",
+          "tag": "Action Shooter",
+          "price": "From $99.99"
+        },
+        {
+          "id": "8",
+          "badge": "",
+          "img": "/img/WoW_6MoSubBundle_ShopProductAssetGallery_1920x1080.jpg",
+          "title": "Overwatch® 2",
+          "logo": "/img/Overwatch2_(1).svg",
+          "dis": "Overwatch® 2",
+          "more": "",
+          "tag": "",
+          "price": "Play For Free"
+        },
+        {
+          "id": "9",
+          "badge": "",
+          "img": "/img/44ed9f00cd02d751e44218e2ca3781cf-Jupiter_Vault_Reveal-Bnet_Game-Content_UI_Phoenix-EN-1920x1080_TEXTLESS.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/Overwatch2_(1).svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "",
+          "tag": "",
+          "price": "From $49.99"
+        },
+        {
+          "id": "10",
+          "badge": "New",
+          "img": "/img/WoW_11.0_PreSaleSupportAssets_Bnet_CheckoutThumbnail_960x540_B06.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/world-of-warcraft.svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "The War Within launches August 26, at 3PM PT! Upgrade to the Epic Edition and get Beta Access Now.",
+          "tag": "Massively Multiplayer RPG",
+          "price": "From $49.99"
+        }
+      ],
+
+      "Featured":[
+        {
+          "id": "1",
+          "badge": "New",
+          "img": "/img/WoW_11.0_PreSaleSupportAssets_Bnet_CheckoutThumbnail_960x540_B06.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/world-of-warcraft.svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "The War Within launches August 26, at 3PM PT! Upgrade to the Epic Edition and get Beta Access Now.",
+          "tag": "Massively Multiplayer RPG",
+          "price": "From $49.99"
+        },
+        {
+          "id": "2",
+          "badge": "",
+          "img": "/img/44ed9f00cd02d751e44218e2ca3781cf-Jupiter_Vault_Reveal-Bnet_Game-Content_UI_Phoenix-EN-1920x1080_TEXTLESS.avif",
+          "title": "Call of Duty: Modern Warfare III",
+          "logo": "/img/Jupiter_Coming_Soon-Bnet_Game-Icon_Shop-EN-Vector-01.svg",
+          "dis": "Call of Duty®: Modern Warfare® III - Vault Edition",
+          "more": "Stop the threat in Season 4 of Call of Duty®",
+          "tag": "Action Shooter",
+          "price": "From $99.99"
+        },
+        {
+          "id": "3",
+          "badge": "",
+          "img": "/img/WoW_6MoSubBundle_ShopProductAssetGallery_1920x1080.jpg",
+          "title": "Overwatch® 2",
+          "logo": "/img/Overwatch2_(1).svg",
+          "dis": "Overwatch® 2",
+          "more": "",
+          "tag": "",
+          "price": "Play For Free"
+        },
+        {
+          "id": "4",
+          "badge": "",
+          "img": "/img/44ed9f00cd02d751e44218e2ca3781cf-Jupiter_Vault_Reveal-Bnet_Game-Content_UI_Phoenix-EN-1920x1080_TEXTLESS.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/Overwatch2_(1).svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "",
+          "tag": "",
+          "price": "From $49.99"
+        },
+        {
+          "id": "5",
+          "badge": "New",
+          "img": "/img/WoW_11.0_PreSaleSupportAssets_Bnet_CheckoutThumbnail_960x540_B06.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/world-of-warcraft.svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "The War Within launches August 26, at 3PM PT! Upgrade to the Epic Edition and get Beta Access Now.",
+          "tag": "Massively Multiplayer RPG",
+          "price": "From $49.99"
+        },
+        {
+          "id": "6",
+          "badge": "New",
+          "img": "/img/WoW_11.0_PreSaleSupportAssets_Bnet_CheckoutThumbnail_960x540_B06.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/world-of-warcraft.svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "The War Within launches August 26, at 3PM PT! Upgrade to the Epic Edition and get Beta Access Now.",
+          "tag": "Massively Multiplayer RPG",
+          "price": "From $49.99"
+        },
+        {
+          "id": "7",
+          "badge": "",
+          "img": "/img/44ed9f00cd02d751e44218e2ca3781cf-Jupiter_Vault_Reveal-Bnet_Game-Content_UI_Phoenix-EN-1920x1080_TEXTLESS.avif",
+          "title": "Call of Duty: Modern Warfare III",
+          "logo": "/img/Jupiter_Coming_Soon-Bnet_Game-Icon_Shop-EN-Vector-01.svg",
+          "dis": "Call of Duty®: Modern Warfare® III - Vault Edition",
+          "more": "Stop the threat in Season 4 of Call of Duty®",
+          "tag": "Action Shooter",
+          "price": "From $99.99"
+        },
+        {
+          "id": "8",
+          "badge": "",
+          "img": "/img/WoW_6MoSubBundle_ShopProductAssetGallery_1920x1080.jpg",
+          "title": "Overwatch® 2",
+          "logo": "/img/Overwatch2_(1).svg",
+          "dis": "Overwatch® 2",
+          "more": "",
+          "tag": "",
+          "price": "Play For Free"
+        },
+        {
+          "id": "9",
+          "badge": "",
+          "img": "/img/44ed9f00cd02d751e44218e2ca3781cf-Jupiter_Vault_Reveal-Bnet_Game-Content_UI_Phoenix-EN-1920x1080_TEXTLESS.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/Overwatch2_(1).svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "",
+          "tag": "",
+          "price": "From $49.99"
+        },
+        {
+          "id": "10",
+          "badge": "New",
+          "img": "/img/WoW_11.0_PreSaleSupportAssets_Bnet_CheckoutThumbnail_960x540_B06.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/world-of-warcraft.svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "The War Within launches August 26, at 3PM PT! Upgrade to the Epic Edition and get Beta Access Now.",
+          "tag": "Massively Multiplayer RPG",
+          "price": "From $49.99"
+        }
+      ],
+
+      "Trending-Now":[
+        {
+          "id": "1",
+          "badge": "New",
+          "img": "/img/WoW_11.0_PreSaleSupportAssets_Bnet_CheckoutThumbnail_960x540_B06.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/world-of-warcraft.svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "The War Within launches August 26, at 3PM PT! Upgrade to the Epic Edition and get Beta Access Now.",
+          "tag": "Massively Multiplayer RPG",
+          "price": "From $49.99"
+        },
+        {
+          "id": "2",
+          "badge": "",
+          "img": "/img/44ed9f00cd02d751e44218e2ca3781cf-Jupiter_Vault_Reveal-Bnet_Game-Content_UI_Phoenix-EN-1920x1080_TEXTLESS.avif",
+          "title": "Call of Duty: Modern Warfare III",
+          "logo": "/img/Jupiter_Coming_Soon-Bnet_Game-Icon_Shop-EN-Vector-01.svg",
+          "dis": "Call of Duty®: Modern Warfare® III - Vault Edition",
+          "more": "Stop the threat in Season 4 of Call of Duty®",
+          "tag": "Action Shooter",
+          "price": "From $99.99"
+        },
+        {
+          "id": "3",
+          "badge": "",
+          "img": "/img/WoW_6MoSubBundle_ShopProductAssetGallery_1920x1080.jpg",
+          "title": "Overwatch® 2",
+          "logo": "/img/Overwatch2_(1).svg",
+          "dis": "Overwatch® 2",
+          "more": "",
+          "tag": "",
+          "price": "Play For Free"
+        },
+        {
+          "id": "4",
+          "badge": "",
+          "img": "/img/44ed9f00cd02d751e44218e2ca3781cf-Jupiter_Vault_Reveal-Bnet_Game-Content_UI_Phoenix-EN-1920x1080_TEXTLESS.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/Overwatch2_(1).svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "",
+          "tag": "",
+          "price": "From $49.99"
+        },
+        {
+          "id": "5",
+          "badge": "New",
+          "img": "/img/WoW_11.0_PreSaleSupportAssets_Bnet_CheckoutThumbnail_960x540_B06.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/world-of-warcraft.svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "The War Within launches August 26, at 3PM PT! Upgrade to the Epic Edition and get Beta Access Now.",
+          "tag": "Massively Multiplayer RPG",
+          "price": "From $49.99"
+        },
+        {
+          "id": "6",
+          "badge": "New",
+          "img": "/img/WoW_11.0_PreSaleSupportAssets_Bnet_CheckoutThumbnail_960x540_B06.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/world-of-warcraft.svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "The War Within launches August 26, at 3PM PT! Upgrade to the Epic Edition and get Beta Access Now.",
+          "tag": "Massively Multiplayer RPG",
+          "price": "From $49.99"
+        },
+        {
+          "id": "7",
+          "badge": "",
+          "img": "/img/44ed9f00cd02d751e44218e2ca3781cf-Jupiter_Vault_Reveal-Bnet_Game-Content_UI_Phoenix-EN-1920x1080_TEXTLESS.avif",
+          "title": "Call of Duty: Modern Warfare III",
+          "logo": "/img/Jupiter_Coming_Soon-Bnet_Game-Icon_Shop-EN-Vector-01.svg",
+          "dis": "Call of Duty®: Modern Warfare® III - Vault Edition",
+          "more": "Stop the threat in Season 4 of Call of Duty®",
+          "tag": "Action Shooter",
+          "price": "From $99.99"
+        },
+        {
+          "id": "8",
+          "badge": "",
+          "img": "/img/WoW_6MoSubBundle_ShopProductAssetGallery_1920x1080.jpg",
+          "title": "Overwatch® 2",
+          "logo": "/img/Overwatch2_(1).svg",
+          "dis": "Overwatch® 2",
+          "more": "",
+          "tag": "",
+          "price": "Play For Free"
+        },
+        {
+          "id": "9",
+          "badge": "",
+          "img": "/img/44ed9f00cd02d751e44218e2ca3781cf-Jupiter_Vault_Reveal-Bnet_Game-Content_UI_Phoenix-EN-1920x1080_TEXTLESS.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/Overwatch2_(1).svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "",
+          "tag": "",
+          "price": "From $49.99"
+        },
+        {
+          "id": "10",
+          "badge": "New",
+          "img": "/img/WoW_11.0_PreSaleSupportAssets_Bnet_CheckoutThumbnail_960x540_B06.avif",
+          "title": "World of Warcraft",
+          "logo": "/img/world-of-warcraft.svg",
+          "dis": "World of Warcraft®: The War Within™",
+          "more": "The War Within launches August 26, at 3PM PT! Upgrade to the Epic Edition and get Beta Access Now.",
+          "tag": "Massively Multiplayer RPG",
+          "price": "From $49.99"
         }
       ]
 }
